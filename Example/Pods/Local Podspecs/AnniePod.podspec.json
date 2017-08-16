@@ -1,0 +1,22 @@
+{
+  "name": "AnniePod",
+  "version": "0.1.0",
+  "summary": "A short description of AnniePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/amtung/AnniePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "amtung": "annie.tung@talkspace.com"
+  },
+  "source": {
+    "git": "https://github.com/amtung/AnniePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AnniePod/Classes/**/*"
+}

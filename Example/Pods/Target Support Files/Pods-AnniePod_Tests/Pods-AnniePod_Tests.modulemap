@@ -1,0 +1,6 @@
+framework module Pods_AnniePod_Tests {
+  umbrella header "Pods-AnniePod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

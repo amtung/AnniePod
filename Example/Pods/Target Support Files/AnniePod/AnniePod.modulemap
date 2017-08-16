@@ -1,0 +1,6 @@
+framework module AnniePod {
+  umbrella header "AnniePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

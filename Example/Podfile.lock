@@ -1,0 +1,16 @@
+PODS:
+  - AnniePod (0.1.0)
+
+DEPENDENCIES:
+  - AnniePod (from `../`)
+
+EXTERNAL SOURCES:
+  AnniePod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AnniePod: 8ddeca60ad319ae3a6bf57f6b2536792dc54c94e
+
+PODFILE CHECKSUM: b566189a78f51f897b4ee38082c0ee57b234cc7b
+
+COCOAPODS: 1.3.1

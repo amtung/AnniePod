@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AnniePod_Tests' do
+  pod 'AnniePod', :path => '../'
+  
+  
+end
